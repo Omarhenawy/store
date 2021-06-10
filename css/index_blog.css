@@ -1,0 +1,17 @@
+#blog1 {
+    background: center / contain no-repeat, #eee;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: 40%;
+    flex-direction: column;
+    justify-content: stretch;
+}
+
+#blog1 span {
+    color: black;
+}
+
+#blog1 p {
+    color: blue;
+    font-weight: 600;
+}
